@@ -1,0 +1,107 @@
+.content {
+    max-width: 600px;
+    max-height: 600px;
+    margin: 0 auto;
+    padding: 0 auto;
+}
+
+.logo {
+    display: flex;
+    border-left: 1px solid #ccc;
+    border-right: 1px solid #ccc;
+    border-bottom: 1px solid #ccc;
+}
+
+.Home {
+    padding: 20px 20px;
+
+}
+
+img {
+    height: 50px;
+    width: 50px;
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+}
+
+form {
+    padding-left: 50px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-left: 1px solid #ccc;
+    border-right: 1px solid #ccc;
+    border-bottom: 1px solid #ccc;
+}
+
+.textarea {
+    color: aqua;
+}
+
+.upload {
+    display: flex;
+}
+
+.namedate {
+    padding-left: 20px;
+    padding-top: 20px;
+}
+
+.name {
+    font-size: 22px;
+    font-weight: bold;
+    margin-bottom:5px;
+}
+
+.date {
+  font-size: 15px;
+  color: gray;
+}
+
+.body {
+    font-size: 18px;
+}
+ 
+.menu-icon {
+    position: absolute;
+}
+
+.like-button {
+    font-size: 25px;
+  border: none;
+  border-radius: 5px;
+  width: 34px;
+  height:32;
+  color:red;
+}
+
+#like-form {
+    padding: 20px;
+   border: 0 solid white;  
+}
+
+.menu_icon {
+    width: 40px;
+    position: absolute;
+    top: 0px;
+    left: 500px;
+}
+
+.menu-icon .menu {
+    display: none;
+    position: absolute;
+    top: 50px;
+    left: 490px;
+    border: 1px solid #ccc;
+    background-color: #15202b !important;
+    padding: 20px 25px;
+    font-size: 15px;
+    border-radius: 5px;
+  }
+
+.menu a {
+    text-decoration: none;
+    color: white;
+}
+
